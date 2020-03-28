@@ -1,5 +1,6 @@
 #! /bin/sh
 
+echo $1
 echo "current working directory"
 pwd
 
