@@ -1,6 +1,7 @@
 #! /bin/sh
 
 echo $1
+echo $ENV
 echo "current working directory"
 pwd
 
